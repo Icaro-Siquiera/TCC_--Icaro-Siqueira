@@ -9,7 +9,7 @@ O projeto foi desenvolvido por minha autoria e implementado na minha área de at
 ## 🔍 Conteúdo Técnico
 #### 🖥 Diagrama Elétrico das principais partes do painel, que consiste nas entradas e sáidas dos cartões do CLP;
 #### ⚙ Partida de Motor com inversor de frequência CFW 09 (WEG).
-####✍️Validação de sensores magnéticos para leitura de velocidade.
+#### ✍️Validação de sensores magnéticos para leitura de velocidade.
 ## 🛠️ Ferramentas Utilizadas
 #### Factory Talk View Studio (edição e animações de tela para supervisório).
 #### - RSLogix 5000 (programação em Ladder).
