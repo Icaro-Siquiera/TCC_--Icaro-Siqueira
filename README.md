@@ -7,7 +7,7 @@ O projeto foi desenvolvido por minha autoria e implementado na minha área de at
 #### ✅ Proporcionar mais segurança às pessoas.
 #### 📍 Usina termoelétrica produtora de açúcar e álcool, com coogeração de energia elétrica, situada na cidade de Leme/SP. 
 ## 🔍 Conteúdo Técnico
-#### 🖥 Diagrama Elétrico das principais partes do painel, que consiste nas entradas e sáidas dos cartões do CLP;
+#### 🖥 Diagrama Elétrico das principais partes do painel, que consiste nas entradas e sáidas dos cartões do CLP.
 #### ⚙ Partida de Motor com inversor de frequência CFW 09 (WEG).
 #### ✍️Validação de sensores magnéticos para leitura de velocidade.
 ## 🛠️ Ferramentas Utilizadas
